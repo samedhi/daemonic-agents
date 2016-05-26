@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This is an example launchd script for MacOS. It was written under 10.9.1.
+You'll have to modify some arguments below to get this working on your box.
+Unfortunetly I was unable to get any environment variables working in the launchd script.
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>etc.hosts.relaxed</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>cp</string>
+    <string>/etc/hosts.relaxed</string>
+    <string>/etc/hosts</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>20</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+</dict>
+</plist>

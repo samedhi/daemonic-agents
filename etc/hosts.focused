@@ -1,0 +1,46 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+0.0.0.0		reddit.com
+0.0.0.0		www.reddit.com
+0.0.0.0		news.ycombinator.com
+0.0.0.0		www.ycombinator.com
+0.0.0.0		gog.com
+0.0.0.0		anandtech.com
+0.0.0.0		www.anandtech.com
+0.0.0.0		arstechnica.com
+0.0.0.0		www.arstechnica.com
+0.0.0.0		extremetech.com
+0.0.0.0		www.extremetech.com
+0.0.0.0		slashdot.org
+0.0.0.0		www.slashdot.org
+0.0.0.0		nytimes.com
+0.0.0.0		www.nytimes.com
+0.0.0.0		economist.com
+0.0.0.0		www.economist.com
+0.0.0.0		sinfest.net
+0.0.0.0		www.sinfest.net
+0.0.0.0		pvponline.com
+0.0.0.0		www.pvponline.com
+0.0.0.0		penny-arcade.com
+0.0.0.0		www.penny-arcade.com
+0.0.0.0		www.youtube.com
+0.0.0.0		youtube.com
+0.0.0.0		www.tomshardware.com
+0.0.0.0		tomshardware.com
+0.0.0.0		steampowered.com
+0.0.0.0		store.steampowered.com
+0.0.0.0		betterment.com
+0.0.0.0		www.betterment.com
+0.0.0.0		wealthfront.com
+0.0.0.0		www.wealthfront.com
+0.0.0.0		investor.vanguard.com
+0.0.0.0		personal.vanguard.com
+0.0.0.0		schwab.com
+0.0.0.0		client.schwab.com
