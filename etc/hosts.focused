@@ -6,7 +6,7 @@
 ##
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
-::1             localhost 
+::1             localhost
 0.0.0.0		reddit.com
 0.0.0.0		www.reddit.com
 0.0.0.0		news.ycombinator.com
@@ -44,3 +44,4 @@
 0.0.0.0		personal.vanguard.com
 0.0.0.0		schwab.com
 0.0.0.0		client.schwab.com
+0.0.0.0		finance.google.com
